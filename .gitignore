@@ -1,0 +1,25 @@
+# Ignore caches and temporary files
+**/.cache/
+**/Cache/
+**/cache/
+**/logs/
+**/*.log
+**/*.tmp
+**/.DS_Store
+
+# Ignore browser data, SSH keys, secrets, GPG, etc.
+**/.ssh/
+**/.gnupg/
+**/secrets/
+**/tokens/
+**/history
+**/.bash_history
+**/.zsh_history
+
+# Ignore thumbnails or heavy images if not needed
+**/.thumbnails/
+**/*.iso
+**/*.tar
+**/*.zip
+**/*.AppImage
+

@@ -1,0 +1,92 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "1a19b809d0db8c71197c6cbfcc44e6bb145992b49109daf074f3584891082032",
+    "telemetry.devDeviceId": "ef138654-17ef-499f-b6d7-35bb38e201d1",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/vishnu/myfiles/inkyank/onchain/GuessCoin"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/vishnu/myfiles/inkyank/onchain": "__default__profile__",
+            "file:///home/vishnu/myfiles/inkyank/onchain/GuessCoin": "__default__profile__",
+            "file:///home/vishnu/Downloads/CarRental-fullstack": "__default__profile__",
+            "file:///home/vishnu/Downloads/vishnu": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#0d1117",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#c9d1d9",
+            "background": "#0d1117",
+            "editorBackground": "#0d1117",
+            "titleBarBackground": "#0d1117",
+            "titleBarBorder": "#30363d",
+            "activityBarBackground": "#0d1117",
+            "activityBarBorder": "#30363d",
+            "sideBarBackground": "#010409",
+            "sideBarBorder": "#30363d",
+            "statusBarBackground": "#0d1117",
+            "statusBarBorder": "#30363d",
+            "statusBarNoFolderBackground": "#0d1117"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 236,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 236,
+            "auxiliaryBarWidth": 236,
+            "workspaces": {
+                "48ebff30e9451feacdec420e9feb51fe": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "722049bae669c5c29cedc85d8fac6eba": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6475d2d0e7df81265c3baec349615701": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7360276e21e7774602e907340357b1bd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/vishnu/myfiles/inkyank/onchain/GuessCoin",
+            "backupPath": "/home/vishnu/.config/Code - OSS/Backups/1791a8cb4cfb0ddf0d7af7acb119dde3",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 1080
+            }
+        },
+        "openedWindows": []
+    }
+}
